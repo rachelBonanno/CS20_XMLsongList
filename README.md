@@ -1,4 +1,4 @@
-# CS20_XMLsongList
+# CS 20 Web Programming Assignment 3: XML Song List
 ## Deliverables
 PDF file containing
 - the XML and CSS code
