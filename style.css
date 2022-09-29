@@ -1,17 +1,31 @@
 songs {
-    color: white;
-    background-color : gray;
+    background-color : #007569;
     width: 100%;
 }
 heading {
-    color: green;
-    font-size : 40px;
-    background-color : powderblue;
-}
-heading, title, artist, genre, year {
     display : block;
+    padding-left: 15px;
+    font-size : 100px;
+    font-family: "Brush Script MT", "Brush Script Std", cursive;
+    color : #004C46;
+    text-align: center;
+}
+artist, genre, year {
+    text-align: center;
+    display : block;
+    padding-left: 15px;
+    color: #BDEFEA;
 }
 title {
+    padding-top: 15px;
+    display : block;
+    padding-left: 15px;
+    color: #FFFFFF;
     font-size : 25px;
     font-weight : bold;
+    text-align: center;
+}
+
+year {
+    padding-bottom: 15px;
 }
