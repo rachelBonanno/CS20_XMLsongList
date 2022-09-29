@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="style.css"?>
+<songs>
+    <heading>Song List</heading>
+    <song>
+        <title>Title: Hell Bells</title>
+        <artist>Artist: AC/DC</artist>
+        <Genre>Genre: Metal</Genre>
+        <year>Year Released: 1980</year>
+    </song>
+    <song>
+        <title>Title: Megan's Piano</title>
+        <artist>Artist: Megan Thee Stallion</artist>
+        <Genre>Genre: Hip-Hop/Rap</Genre>
+        <year>Year Released: 2021</year>
+    </song>
+    <song>
+        <title>Title: REPEAT IT (with Gunna)</title>
+        <artist>Artist: Gunna and Lil Tecca</artist>
+        <genre>Genre: Hip-Hop/Rap</genre>
+        <year>Year Released: 2021</year>
+    </song>
+    <song>
+        <title>Title: </title>
+        <artist>Artist: </artist>
+        <genre>Genre: </genre>
+        <year>Year Released: </year>
+    </song>
+    <song>
+        <title>Title: </title>
+        <artist>Artist: </artist>
+        <genre>Genre: </genre>
+        <year>Year Released: </year>
+    </song>
+    <song>
+        <title>Title: </title>
+        <artist>Artist: </artist>
+        <genre>Genre: </genre>
+        <year>Year Released: </year>
+    </song>
+    <song>
+        <title>Title: </title>
+        <artist>Artist: </artist>
+        <genre>Genre: </genre>
+        <year>Year Released: </year>
+    </song>
+    <song>
+        <title>Title: </title>
+        <artist>Artist: </artist>
+        <genre>Genre: </genre>
+        <year>Year Released: </year>
+    </song>
+    <song>
+        <title>Title: </title>
+        <artist>Artist: </artist>
+        <genre>Genre: </genre>
+        <year>Year Released: </year>
+    </song>
+    <song>
+        <title>Title: </title>
+        <artist>Artist: </artist>
+        <genre>Genre: </genre>
+        <year>Year Released: </year>
+    </song>
+    <song>
+        <title>Title: </title>
+        <artist>Artist: </artist>
+        <genre>Genre: </genre>
+        <year>Year Released: </year>
+    </song>
+    <song>
+        <title>Title: </title>
+        <artist>Artist: </artist>
+        <genre>Genre: </genre>
+        <year>Year Released: </year>
+    </song>
+</songs>
