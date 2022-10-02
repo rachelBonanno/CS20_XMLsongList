@@ -17,7 +17,11 @@ genres.
 ## Questions
 Discuss a case study for using XML
 <br>
+You would use XML when web serching. XML allows the user to serche for a book by an autors name and get a ore specialized result ofor that author compared to html where it will serch for any word in the search you have and returrn all results relating to anyword in the serch.
+<br>
 Do you like XML as a means of representing data.  Why or why not?
+<br>
+
 ## Rubric
 All deliverables provided – 15 points
 <br>
